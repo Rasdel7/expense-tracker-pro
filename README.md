@@ -5,7 +5,7 @@ alerts, recurring expense tracking and
 detailed spending analytics.
 
 ## Live Demo
-[Click here](YOUR_STREAMLIT_URL)
+[Click here](https://expense-tracker-pro-82rb59zbyjhgoyfcqlvwwv.streamlit.app)
 
 ## Features
 - Add expenses with category, date and notes
